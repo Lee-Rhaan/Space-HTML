@@ -1,393 +1,364 @@
-🌌 Solar Drift — Interactive 3D Space Explorer
 
+<div align="center">
 
-Explore the Solar System. Travel Between Galaxies. Experience the Scale of the Universe.
+# 🌌 SOLAR DRIFT
 
+### Interactive 3D Space Explorer
 
-Solar Drift is an interactive, browser-based 3D space exploration application designed to bring the wonders of our universe to life.
+**Explore the Solar System · Travel Between Galaxies · Experience the Universe**
 
+<br>
 
-Built using modern web technologies, Solar Drift allows users to explore detailed celestial bodies, travel between planets, experience cinematic journeys through space, and venture beyond our Solar System into the Milky Way and Andromeda galaxies.
+[![Live Demo](https://img.shields.io/badge/🚀_LAUNCH-SOLAR_DRIFT-2563eb?style=for-the-badge)](https://lee-rhaan.github.io/Space-HTML/)
+![Version](https://img.shields.io/badge/VERSION-3.2-8b5cf6?style=for-the-badge)
+![Platform](https://img.shields.io/badge/PLATFORM-WEB_&_MOBILE-059669?style=for-the-badge)
 
+<br>
 
-The project combines realistic astronomical imagery, interactive 3D rendering, smooth camera animations, and educational features to create an immersive space exploration experience — directly in your web browser.
+*An immersive journey through space, from the surface of Earth to the distant galaxies beyond our Solar System.*
 
+---
 
-No installation, account registration, or paid API key is required.
+</div>
 
+## 🌠 About Solar Drift
 
-🚀 Live Demo
+**Solar Drift** is an interactive, browser-based 3D space exploration application that brings the wonders of the universe to life.
 
+Explore detailed planets, navigate the Solar System, experience cinematic interplanetary journeys, and travel beyond our galaxy to explore the Milky Way and Andromeda.
 
-Launch Solar Drift
+Built with **Three.js, CesiumJS, WebGL, and JavaScript**, Solar Drift combines realistic astronomical imagery, procedural 3D environments, and cinematic animations into a single immersive experience.
 
+> 🌍 **No installation. No account. No paid API key. Just explore.**
 
-✨ Key Features
+<br>
 
+## ✨ Features at a Glance
 
-🌍 Interactive Solar System Exploration
+| Feature | Description |
+|:---|:---|
+| 🌍 **Planetary Observatory** | Explore the Sun, eight planets, and Earth's Moon |
+| 🌎 **Earth Exploration** | Transition from orbital views to geographic imagery |
+| 🚀 **Interplanetary Travel** | Cinematic flights between celestial bodies |
+| 📏 **Size Comparison** | Compare the actual relative diameters of planets |
+| 🌌 **Galactic Explorer** | Explore the Milky Way and Andromeda in 3D |
+| ✨ **Intergalactic Travel** | High-speed starfield effects between galaxies |
+| 🌠 **Galaxy Fly-Through** | Travel through spiral arms and stellar regions |
+| 🎬 **Cinema Mode** | Automated cinematic camera movement |
+| 📱 **Mobile Support** | Touch-friendly controls and responsive interface |
 
+<br>
 
-Explore the Sun, all eight planets of our Solar System, and Earth's Moon.
+---
 
+## 🪐 Explore the Solar System
 
+Explore the celestial bodies of our Solar System in an interactive 3D environment.
 
+**Available destinations:**
 
-Detailed 3D planetary models with high-quality surface textures.
+☀️ Sun · ☿ Mercury · ♀ Venus · 🌍 Earth · ♂ Mars · ♃ Jupiter · ♄ Saturn · ♅ Uranus · ♆ Neptune · 🌙 Moon
 
+### Highlights
 
-Realistic planetary lighting, atmospheric effects, and shadows.
+- High-quality planetary surface textures.
+- Simulated atmospheric effects and realistic lighting.
+- Interactive camera rotation, zooming, and navigation.
+- Detailed Saturnian rings.
+- Simulated solar activity and prominences.
+- Smooth animated travel between destinations.
+- Dedicated destination selection interface.
 
+<br>
 
-Interactive camera rotation, zooming, and orbital exploration.
+## 🌎 Earth Exploration
 
+Experience Earth from orbit and descend toward its surface.
 
-Saturn's rings with enhanced visual detail and simulated icy particles.
+Solar Drift uses a hybrid rendering approach combining high-quality planetary imagery with **CesiumJS** geographic exploration.
 
+### Capabilities
 
-Animated solar activity, including simulated solar prominences.
+- Detailed Earth imagery from space.
+- Smooth transitions between orbital and geographic views.
+- Interactive zooming and camera movement.
+- Geographic exploration at closer altitudes.
+- Quick navigation to South Africa.
+- Camera reset and orbital rotation controls.
 
+<br>
 
-Approximate planetary orbital positions and scaled interplanetary distances.
+## 🚀 Cinematic Space Travel
 
+Solar Drift transforms navigation into an experience.
 
-Dedicated destination navigation for switching between celestial bodies.
+Instead of instantly switching between destinations, the application uses animated camera journeys to create the sensation of travelling through space.
 
+**Flight features include:**
 
+- Smooth camera acceleration and deceleration.
+- Destination-specific travel animations.
+- Automated arrival positioning.
+- Cinematic camera orientation.
+- Distance-sensitive flight durations.
+- Animated starfields during long-distance travel.
 
+<br>
 
-Each planet offers a unique visual experience, from Jupiter's atmospheric bands to the icy blue appearance of Neptune.
+---
 
+<div align="center">
 
-🌎 High-Resolution Earth Exploration
+## 🌌 BEYOND THE SOLAR SYSTEM
 
+### Explore Entire Galaxies
 
-Earth features a dedicated exploration experience that combines photographic planetary rendering with CesiumJS.
+*Your journey doesn't end at Neptune.*
 
+</div>
 
+<br>
 
+## 🌌 The Galactic Explorer
 
-High-quality global imagery and cloud layers.
+Travel beyond our Solar System and explore two of the most recognizable galaxies in our cosmic neighbourhood.
 
+### 🌠 The Milky Way
 
-Smooth transitions between distant orbital views and detailed geographic exploration.
+Explore a procedural 3D representation of our home galaxy, featuring:
 
+- Spiral arms populated with thousands of stars.
+- A luminous central galactic bulge.
+- Layered dust clouds and stellar structures.
+- Interactive camera movement.
+- Cinematic journeys through the galactic disk.
 
-Interactive zooming from space toward Earth's surface.
+### ✨ The Andromeda Galaxy
 
+Travel to our neighbouring spiral galaxy and experience:
 
-Geographic navigation and camera controls.
+- A detailed 3D spiral structure.
+- A bright galactic core.
+- Distributed stellar populations.
+- Interactive viewing and camera navigation.
+- Cinematic travel to and from the Milky Way.
 
+<br>
 
-South Africa location shortcut.
+## ⚡ High-Speed Intergalactic Travel
 
+One of Solar Drift's signature experiences is its cinematic galaxy-to-galaxy travel system.
 
-Smooth camera reset and orbital rotation.
+As the camera accelerates through space, stars appear to rush past the viewer, creating a powerful sensation of speed and distance.
 
+### The Experience
 
+1. 🚀 Depart the current galaxy.
+2. ✨ Accelerate through a moving starfield.
+3. 🌌 Travel across intergalactic space.
+4. 🌠 Approach the destination galaxy.
+5. 🪐 Transition into interactive exploration.
 
+The moving stars, camera orientation, and gradual deceleration combine to create a seamless cinematic experience.
 
-The hybrid rendering approach allows Earth to maintain an impressive appearance from space while supporting detailed close-range exploration.
+<br>
 
+## 🌠 Fly Through the Spiral Arms
 
-🚀 Cinematic Interplanetary Travel
+Experience galaxies from the inside.
 
+The **Fly Through Arms** feature guides the camera through a galaxy's spiral structures, passing through regions filled with stars, luminous clouds, and galactic dust.
 
-Travel between planets using animated spaceflight sequences.
+Rather than viewing a galaxy as a static image, Solar Drift lets you explore its three-dimensional environment.
 
+<br>
 
+---
 
+## 📏 Solar System Size Comparison
 
-Destination-aware camera movement.
+Ever wondered how small Earth really is compared with Jupiter or the Sun?
 
+Solar Drift includes an interactive size comparison experience that displays celestial bodies using their actual relative diameters.
 
-Smooth acceleration and deceleration.
+### Features
 
+- Animated size-reveal sequence.
+- Realistic relative planetary diameters.
+- Interactive 3D viewing.
+- Celestial body labels.
+- Information cards with measurements and descriptions.
+- Easy return to the main observatory.
 
-Animated departure and arrival sequences.
+> ☀️ **Did you know?** The Sun's diameter is approximately 109 times that of Earth.
 
+<br>
 
-Variable flight durations depending on the destination.
+## 🎬 Cinema Mode
 
+Activate automated camera movement to enjoy the Solar System from a cinematic perspective.
 
-Automatic camera positioning at predefined orbital altitudes.
+Cinema Mode is designed for immersive observation, allowing users to appreciate the details of celestial bodies without continuously adjusting the camera.
 
+<br>
 
-Compact flight information displays.
+## 📱 Designed for Mobile and Desktop
 
+Solar Drift runs directly in modern web browsers.
 
+| 📱 Mobile | 💻 Desktop |
+|:---|:---|
+| Touch-friendly interface | Mouse navigation |
+| Pinch-to-zoom | Scroll-to-zoom |
+| Drag-to-rotate | Click-and-drag rotation |
+| Responsive controls | Expanded viewing area |
+| Browser-based access | Browser-based access |
 
+**No app installation required.**
 
-Rather than simply switching between planets, Solar Drift creates the feeling of travelling across the Solar System.
+<br>
 
+---
 
-📏 Interactive Solar System Size Comparison
+## 🛠️ Technology Stack
 
+<div align="center">
 
-Discover the extraordinary differences in size between celestial bodies.
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white)
+![WebGL](https://img.shields.io/badge/WebGL-990000?style=for-the-badge&logo=webgl&logoColor=white)
+![CesiumJS](https://img.shields.io/badge/CesiumJS-6CADDF?style=for-the-badge)
+![GitHub Pages](https://img.shields.io/badge/GitHub_Pages-222222?style=for-the-badge&logo=github&logoColor=white)
 
+</div>
 
+<br>
 
+| Technology | Role |
+|:---|:---|
+| **HTML5** | Application structure |
+| **CSS3** | Responsive UI and visual styling |
+| **JavaScript** | Application logic and animations |
+| **Three.js** | 3D rendering and celestial environments |
+| **CesiumJS** | Geographic Earth exploration |
+| **WebGL** | GPU-accelerated graphics |
+| **GitHub Pages** | Static website hosting |
 
-Cinematic size-reveal animation.
+### Architecture
 
+Solar Drift uses a lightweight, single-page architecture.
 
-Sun, planets, and Moon displayed using their actual relative diameters.
+The interface and application logic are contained within a single HTML file, with external libraries and astronomical imagery loaded as needed.
 
+This approach allows the project to be deployed using static hosting without requiring a dedicated backend server.
 
-Interactive 3D camera controls.
+<br>
 
+## 🔬 Scientific Accuracy
 
-Planet identification labels.
+Solar Drift aims to balance **astronomical realism, visual quality, and interactive performance**.
 
+The application uses real relative diameters for its size comparison feature.
 
-Animated information panels with descriptions and measurements.
+However, some astronomical distances, orbital positions, travel speeds, and visual effects are simplified for interactive navigation and cinematic presentation.
 
+Galaxy structures and certain planetary effects are procedural visualizations inspired by astronomical observations.
 
-Ability to return directly to the main observatory.
+> **Note:** Solar Drift is an interactive educational and visual exploration experience, not a precision astronomical simulator.
 
+<br>
 
+---
 
+## 🗺️ Future Roadmap
 
-This feature helps demonstrate just how small Earth is compared with Jupiter, Saturn, and especially the Sun.
+Solar Drift is continuously evolving.
 
+Potential future enhancements include:
 
-🌌 3D Galactic Exploration
+- [ ] 🕳️ Interactive black hole exploration
+- [ ] 🌍 Planetary surface landings
+- [ ] 🌙 Additional planetary moons
+- [ ] 🌫️ Nebula exploration and fly-throughs
+- [ ] ⭐ Interstellar travel to nearby star systems
+- [ ] 🪐 Exoplanet exploration
+- [ ] ☄️ Astronomical event simulations
+- [ ] 🛰️ Real spacecraft mission visualization
+- [ ] 🌌 Galaxy clusters and observable universe exploration
+- [ ] 📸 Astrophotography and screenshot mode
 
+<br>
 
-Venture beyond the Solar System to explore the Milky Way and Andromeda galaxies.
+## 🚀 Getting Started
 
+### Option 1 — Launch Online
 
+Visit the live application:
 
+**[🌌 Open Solar Drift](https://lee-rhaan.github.io/Space-HTML/)**
 
-Interactive 3D galaxy visualizations.
+### Option 2 — Run Locally
 
+Clone the repository:
 
-Spiral arms, luminous galactic cores, and stellar distributions.
+```bash
+git clone https://github.com/Lee-Rhaan/Space-HTML.git
+```
 
+Navigate into the project:
 
-Layered starfields and subtle nebula effects.
+```bash
+cd Space-HTML
+```
 
+Serve the project using a local static web server, then open it in your browser.
 
-Camera rotation and zoom controls.
+For example, with Python installed:
 
+```bash
+python -m http.server 8000
+```
 
-Cinematic travel between galaxies.
+Visit:
 
+```text
+http://localhost:8000
+```
 
-High-speed moving-star effects that convey the immense distances involved.
+An internet connection is required for externally hosted libraries and imagery.
 
+<br>
 
+---
 
+## 💡 Project Vision
 
-Both galaxies are represented through procedurally generated 3D structures inspired by astronomical observations.
+> **To make the scale, beauty, and complexity of our universe accessible through an immersive, interactive experience.**
 
+Solar Drift is built around the idea that exploring space should feel like an adventure.
 
-✨ Cinematic Galaxy Zoom-Out
+From observing Earth's atmosphere to flying through distant galactic spiral arms, the project aims to inspire curiosity and make astronomical exploration accessible to anyone with a modern web browser.
 
+<br>
 
-Experience a journey from planetary scale to galactic scale.
+---
 
+<div align="center">
 
-The animation begins at the currently selected planet and gradually moves outward through several stages:
+### 🌌 SOLAR DRIFT
 
+**Explore Beyond the Horizon.**
 
+<br>
 
+[![Explore Now](https://img.shields.io/badge/🌍_START_EXPLORING-LAUNCH_SOLAR_DRIFT-2563eb?style=for-the-badge)](https://lee-rhaan.github.io/Space-HTML/)
 
-Depart the planet.
+<br>
 
+Made with curiosity for the universe.
 
-Reveal the Solar System.
+**Version 32 · Interactive 3D Space Explorer**
 
-
-Travel into interstellar space.
-
-
-Pass through surrounding starfields.
-
-
-Pull away to reveal the complete Milky Way.
-
-
-
-
-The experience uses animated camera movement and visual scale transitions to communicate the enormous distances between celestial objects.
-
-
-🌠 Fly Through Galactic Spiral Arms
-
-
-Explore galaxies from within rather than viewing them only from a distance.
-
-
-
-
-Cinematic camera journeys through 3D spiral structures.
-
-
-Dense stellar regions and luminous galactic cores.
-
-
-High-speed star movement during travel.
-
-
-Curved camera paths and smooth transitions.
-
-
-Interactive exploration before and after the animation.
-
-
-
-
-This feature offers a different perspective on the structure and scale of spiral galaxies.
-
-
-🎬 Cinema Mode
-
-
-Activate cinematic camera movement for a more immersive viewing experience.
-
-
-Cinema Mode allows users to observe celestial bodies through automated camera motion while minimizing the need for manual interaction.
-
-
-📱 Mobile-Friendly Experience
-
-
-Solar Drift is designed to run directly in modern browsers, including mobile devices.
-
-
-
-
-Touch-friendly navigation.
-
-
-Drag-to-rotate camera controls.
-
-
-Pinch-to-zoom interactions.
-
-
-Compact destination selection.
-
-
-Minimal interface clutter.
-
-
-High-quality visual settings enabled by default.
-
-
-No application installation required.
-
-
-
-
-🛠️ Technologies Used
-
-
-
-
-Technology
-Purpose
-
-
-
-
-HTML5
-Application structure
-
-
-CSS3
-Interface design, layouts, and animations
-
-
-JavaScript
-Application logic and interaction
-
-
-Three.js
-3D rendering, celestial objects, and camera animations
-
-
-CesiumJS
-Detailed geographic exploration of Earth
-
-
-WebGL
-Hardware-accelerated browser graphics
-
-
-GitHub Pages
-Static website hosting
-
-
-
-
-Solar Drift uses a single-page architecture, with its application logic and interface contained in an HTML file and supporting libraries and imagery loaded from external sources.
-
-
-🔭 Scientific Accuracy
-
-
-Solar Drift aims to balance visual realism, educational value, and interactive performance.
-
-
-Planetary size comparisons use real relative diameters, while some orbital distances, planetary positions, and travel durations are simplified for navigation and cinematic presentation.
-
-
-Galaxies, solar activity, and certain planetary effects are simulated visualizations rather than exact real-time astronomical representations.
-
-
-The application is intended as an interactive exploration experience rather than a precision astronomical simulator.
-
-
-🗺️ Future Development
-
-
-Solar Drift is an evolving project with opportunities for additional features, including:
-
-
-
-
-Interactive black hole exploration and gravitational lensing.
-
-
-Planetary surface landings.
-
-
-Exploration of additional moons.
-
-
-Nebula exploration and cinematic fly-throughs.
-
-
-Interstellar travel to other star systems.
-
-
-Exoplanet exploration.
-
-
-Astronomical events and time simulation.
-
-
-Real spacecraft mission visualization.
-
-
-Exploration of galaxy clusters and the observable universe.
-
-
-
-
-💡 Project Vision
-
-
-The vision behind Solar Drift is to create an accessible, visually immersive space exploration experience that allows anyone to discover the scale and beauty of the universe.
-
-
-From exploring Earth's surface to travelling through distant galaxies, Solar Drift aims to make space exploration engaging, interactive, and available to anyone with a modern web browser.
-
-
-
-Solar Drift V32 — Explore Beyond the Horizon. 🌌
-
-
+</div>
